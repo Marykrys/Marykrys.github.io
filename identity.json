@@ -1,0 +1,7 @@
+{
+  "agent_name": "MyAutonomousAgent",
+  "identity_domain": "Marykrys.github.io",
+  "wallet_address": "0x4738be8e90db04268dc5491a5a53118dd4ae2582",
+  "supported_networks": ["bnb", "base", "ethereum", "solana"],
+  "capabilities": ["token_swaps", "nft_minting"]
+}
